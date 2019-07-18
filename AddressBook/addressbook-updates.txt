@@ -1,0 +1,2 @@
+Record Deleted: Sally	Jones	9458 Dule Street	New York	NY	84839	9483948783
+Record Updated: John	Smith	5849 Lane Street	Austin	TX	48574	3987890987
